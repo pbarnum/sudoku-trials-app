@@ -10,7 +10,7 @@ Sudoku Trials uses [Google's AdMob](https://admob.google.com/home/resources/what
 
 Outside of ads, I can firmly say that I have not programmed this app to collect any personally identifiable information. All data (app preferences (like theme, etc.) and game states) created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
-### Explanation of permissions requested in the app
+### Explanation of permissions requested in the app (android)
 
 | Permission | Why it is required                                      |
 | :---: |---------------------------------------------------------|

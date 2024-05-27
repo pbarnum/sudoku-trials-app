@@ -44,6 +44,22 @@ function App() {
           patrick.dev.apps@gmail.com
         </a>
       </p>
+      <h2>Privacy Policy</h2>
+      <p>
+        Sudoku Trials provides advertisements through Google's AdMob service. More information on AdMob can be found at{" "}
+        <a className="App-link" href="https://admob.google.com/home/resources/what-is-admob/">
+          https://admob.google.com/home/resources/what-is-admob/
+        </a>
+        .
+      </p>
+      <p>
+        Sudoku Trials does not ask for, and does not store any personal identifying information. The privacy policy can
+        be found at{" "}
+        <a className="App-link" href="https://github.com/pbarnum/sudoku-trials-issues/blob/main/PRIVACY.MD">
+          https://github.com/pbarnum/sudoku-trials-issues/blob/main/PRIVACY.MD
+        </a>
+        .
+      </p>
     </div>
   );
 }
