@@ -6,7 +6,7 @@ This application was created for the love of programming, and for the new experi
 
 #### Ads are enabled for this application!
 
-Sudoku Trials uses [Google's AdMob](https://admob.google.com/home/resources/what-is-admob/) to display ads. I have included ads (banner at the bottom to be less intrusive) for passive income and incentive to continue to build mobile apps. 
+Sudoku Trials uses [Google's AdMob](https://admob.google.com/home/resources/what-is-admob/) to display ads. I have included ads (banner at the bottom to be less intrusive) for passive income and incentive to continue to build mobile apps.
 
 Outside of ads, I can firmly say that I have not programmed this app to collect any personally identifiable information. All data (app preferences (like theme, etc.) and game states) created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
@@ -20,6 +20,6 @@ Outside of ads, I can firmly say that I have not programmed this app to collect 
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
-Thank you,
-Patrick Barnum
+Thank you,</br>
+Patrick Barnum</br>
 patrick.dev.apps@gmail.com
