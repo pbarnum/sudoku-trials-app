@@ -55,8 +55,8 @@ function App() {
       <p>
         Sudoku Trials does not ask for, and does not store any personal identifying information. The privacy policy can
         be found at{" "}
-        <a className="App-link" href="https://github.com/pbarnum/sudoku-trials-issues/blob/main/PRIVACY.MD">
-          https://github.com/pbarnum/sudoku-trials-issues/blob/main/PRIVACY.MD
+        <a className="App-link" href="https://github.com/pbarnum/sudoku-trials-app/blob/main/PRIVACY.MD">
+          https://github.com/pbarnum/sudoku-trials-app/blob/main/PRIVACY.MD
         </a>
         .
       </p>
